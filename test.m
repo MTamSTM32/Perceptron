@@ -40,3 +40,4 @@ for i = 1:4
     A(end+1) = a;
 end
 disp(A)
+disp(A)
